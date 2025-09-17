@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75DFCDE7-D439-45D1-A1ED-2FB6C535F2DF}|src\\Client\\Client.csproj|d:\\tpv\\samples\\identityserver\\v5\\quickstarts\\3_aspnetcoreandapis\\src\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DFCDE7-D439-45D1-A1ED-2FB6C535F2DF}|src\\Client\\Client.csproj|solutionrelative:src\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C496D7-9A83-4B2B-A7E4-74A283034313}|src\\Api\\Api.csproj|d:\\tpv\\samples\\identityserver\\v5\\quickstarts\\3_aspnetcoreandapis\\src\\api\\myclaimstransformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C496D7-9A83-4B2B-A7E4-74A283034313}|src\\Api\\Api.csproj|solutionrelative:src\\api\\myclaimstransformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C496D7-9A83-4B2B-A7E4-74A283034313}|src\\Api\\Api.csproj|d:\\tpv\\samples\\identityserver\\v5\\quickstarts\\3_aspnetcoreandapis\\src\\api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C496D7-9A83-4B2B-A7E4-74A283034313}|src\\Api\\Api.csproj|solutionrelative:src\\api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C496D7-9A83-4B2B-A7E4-74A283034313}|src\\Api\\Api.csproj|d:\\tpv\\samples\\identityserver\\v5\\quickstarts\\3_aspnetcoreandapis\\src\\api\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C496D7-9A83-4B2B-A7E4-74A283034313}|src\\Api\\Api.csproj|solutionrelative:src\\api\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C496D7-9A83-4B2B-A7E4-74A283034313}|src\\Api\\Api.csproj|d:\\tpv\\samples\\identityserver\\v5\\quickstarts\\3_aspnetcoreandapis\\src\\api\\aclcookieauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C496D7-9A83-4B2B-A7E4-74A283034313}|src\\Api\\Api.csproj|solutionrelative:src\\api\\aclcookieauthenticationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C496D7-9A83-4B2B-A7E4-74A283034313}|src\\Api\\Api.csproj|d:\\tpv\\samples\\identityserver\\v5\\quickstarts\\3_aspnetcoreandapis\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C496D7-9A83-4B2B-A7E4-74A283034313}|src\\Api\\Api.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AclCookieAuthenticationHandler.cs",
+              "DocumentMoniker": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\src\\Api\\AclCookieAuthenticationHandler.cs",
+              "RelativeDocumentMoniker": "src\\Api\\AclCookieAuthenticationHandler.cs",
+              "ToolTip": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\src\\Api\\AclCookieAuthenticationHandler.cs",
+              "RelativeToolTip": "src\\Api\\AclCookieAuthenticationHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:07:05.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\src\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Client\\Program.cs",
+              "ToolTip": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\src\\Client\\Program.cs",
+              "RelativeToolTip": "src\\Client\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:23:41.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityController.cs",
+              "DocumentMoniker": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\src\\Api\\Controllers\\IdentityController.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Controllers\\IdentityController.cs",
+              "ToolTip": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\src\\Api\\Controllers\\IdentityController.cs",
+              "RelativeToolTip": "src\\Api\\Controllers\\IdentityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:16:50.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyClaimsTransformation.cs",
+              "DocumentMoniker": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\src\\Api\\MyClaimsTransformation.cs",
+              "RelativeDocumentMoniker": "src\\Api\\MyClaimsTransformation.cs",
+              "ToolTip": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\src\\Api\\MyClaimsTransformation.cs",
+              "RelativeToolTip": "src\\Api\\MyClaimsTransformation.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:15:34.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\src\\Api\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Startup.cs",
+              "ToolTip": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\src\\Api\\Startup.cs",
+              "RelativeToolTip": "src\\Api\\Startup.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:09:52.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\src\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Api\\Program.cs",
+              "ToolTip": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\src\\Api\\Program.cs",
+              "RelativeToolTip": "src\\Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:31:24.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

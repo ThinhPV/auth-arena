@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = Api
+build_property.ProjectDir = D:\TPV\Samples\IdentityServer\v5\Quickstarts\3_AspNetCoreAndApis\src\Api\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

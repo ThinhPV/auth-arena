@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nU/d8fy459o=",
+  "success": true,
+  "projectFilePath": "D:\\TPV\\Samples\\IdentityServer\\v5\\Quickstarts\\3_AspNetCoreAndApis\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nc\\.nuget\\packages\\identitymodel\\5.0.0\\identitymodel.5.0.0.nupkg.sha512",
+    "C:\\Users\\nc\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
+    "C:\\Users\\nc\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
