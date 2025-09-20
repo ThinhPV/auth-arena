@@ -2,7 +2,7 @@
 
 **Warning:** This is a *playground* — kiddie code, full of bugs, written purely for **messing around**.  
 
-Auth-Arena is a dummy project for:
+Auth-ooo is a dummy project for:
 - Experimenting with **ACL** (Access Control Lists) — “who’s allowed to do what”.
 - Playing with **RBAC** (Role-Based Access Control) — assigning roles (admin, user, bovinator).
 - Protecting APIs with multiple schemes: **JWT**, **cookie-based ACL**, weird **PolicySchemes**, and more.
