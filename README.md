@@ -1,4 +1,4 @@
-# Auth-Arena
+# Auth-ooo
 
 **Warning:** This is a *playground* — kiddie code, full of bugs, written purely for **messing around**.  
 
